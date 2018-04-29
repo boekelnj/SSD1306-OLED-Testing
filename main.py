@@ -6,7 +6,7 @@ import dispTests as debug
 from machine import I2C, Pin
 from time import sleep
 
-scl = Pin(12)
+scl = Pin(12)   # Set scl and sda to GPIO pins of your choosing.
 sda = Pin(13)
 
 i2c = I2C(-1, scl, sda, freq = 400000)  # 400khz is max frequency of I2c
