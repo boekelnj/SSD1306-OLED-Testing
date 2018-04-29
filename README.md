@@ -1,3 +1,4 @@
 # SSD1306-OLED-Testing
 
 [Imgur](https://i.imgur.com/MSWBIAs.gif)
+![](https://i.imgur.com/MSWBIAs.gif)
