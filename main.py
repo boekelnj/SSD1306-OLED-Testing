@@ -24,7 +24,7 @@ def main():
         debug.text(display, 'This is a test of', 0, 5)
         debug.text(display, 'the .96" ssd1306', 0, 15)
         debug.text(display, 'OLED display', 0, 25)
-        debug.text(display, 'with an ESP8622', 0, 35)
+        debug.text(display, 'with an ESP8266', 0, 35)
         debug.text(display, 'running', 0, 45)
         debug.text(display, '    MicroPython', 0, 55)
         sleep(5)
